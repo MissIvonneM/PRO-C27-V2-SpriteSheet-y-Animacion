@@ -1,1 +1,2 @@
-# PRO-C27-V2-SpriteSheet-y-Animacion
+# PRO-C27-referencia
+Código de referencia para c27
